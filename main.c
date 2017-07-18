@@ -1,4 +1,5 @@
 #include<stdio.h>
+void fun3(void);
 void fun1()
 {
 	puts("in fun1");
@@ -11,5 +12,6 @@ void fun2()
 int main()
 {
 	puts("hello");
-	fun();
+	fun1();
+	fun3();
 }
