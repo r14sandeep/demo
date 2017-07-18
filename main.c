@@ -12,6 +12,7 @@ void fun2()
 int main()
 {
 	puts("hello");
+	puts("git hub");
 	fun1();
 	fun3();
 }
