@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void fun3()
 {
 	printf("1.c\n");
 
